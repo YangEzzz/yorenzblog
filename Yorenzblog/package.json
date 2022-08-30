@@ -1,0 +1,27 @@
+{
+  "name": "yangwebblog",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --mode dev",
+    "prod": "vite --mode prod",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.6",
+    "axios": "^0.27.2",
+    "element-plus": "^2.2.9",
+    "moment": "^2.29.4",
+    "prettier": "^2.7.1",
+    "vue": "^3.2.37",
+    "vue-router": "^4.1.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.0",
+    "node-sass": "^7.0.1",
+    "sass": "^1.53.0",
+    "sass-loader": "^13.0.2",
+    "vite": "^3.0.0"
+  }
+}
